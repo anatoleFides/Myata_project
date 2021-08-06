@@ -1,0 +1,9 @@
+.basket { background-position: -5px -0px; width: 24px; height: 20px; }
+.white-leafs { background-position: -5px -25px; width: 21px; height: 24px; }
+.calendar { background-position: -5px -54px; width: 16px; height: 16px; }
+.magnifying-glass { background-position: -5px -75px; width: 16px; height: 16px; }
+.mail-v2 { background-position: -5px -96px; width: 16px; height: 12px; }
+.key { background-position: -5px -113px; width: 15px; height: 16px; }
+.phone { background-position: -5px -134px; width: 15px; height: 15px; }
+.round-lock { background-position: -5px -154px; width: 12px; height: 16px; }
+.green-leafs { background-position: -5px -175px; width: 10px; height: 11px; }
